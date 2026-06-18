@@ -54,7 +54,7 @@ Document Upload
 ## Screenshots
 
 ### Landing Page
-![Landing Page](assetslanding_page_fileinsight.jpeg)
+![Landing Page](assets/landing_page_fileinsight.jpeg)
 
 ### Dashboard
 ![Dashboard](assets/dashboard_fileinsight.png)
